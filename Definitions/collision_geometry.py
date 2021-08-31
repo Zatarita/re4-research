@@ -3,6 +3,8 @@ import struct
 from shared import read_int
 
 
+# Note this is still incomplete
+
 class CollisionLayer:
     _layer_header = 0x20
 

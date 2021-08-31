@@ -1,5 +1,5 @@
 import os
-from shared import read_int, create_save_directory
+from .shared import read_int, create_save_directory
 import struct
 
 

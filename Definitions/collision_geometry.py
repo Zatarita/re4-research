@@ -1,6 +1,6 @@
 import os
 import struct
-from shared import read_int
+from .shared import read_int
 
 
 class CollisionLayer:

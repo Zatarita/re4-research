@@ -1,5 +1,5 @@
 import os
-from shared import read_int
+from .shared import read_int
 
 
 class Udas:
